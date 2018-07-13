@@ -1,0 +1,31 @@
+{
+  "name": "747Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "engines": {
+    "node": "8.11.3"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "get-video-id": "^3.1.0",
+    "google-images": "^2.1.0",
+    "html-to-text": "^4.0.0",
+    "node-opus": "^0.3.0",
+    "overwatch-js": "^1.8.0",
+    "shortid": "^2.2.11",
+    "snekfetch": "^4.0.4",
+    "youtube-info": "^1.2.0",
+    "youtube-search": "^1.1.1",
+    "youtube-url": "^0.5.0",
+    "ytdl-core": "^0.20.4"
+  }
+}
